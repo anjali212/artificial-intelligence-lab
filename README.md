@@ -1,1 +1,1 @@
-# artificial-intelligence-lab
+# Practical-1AI-ML
